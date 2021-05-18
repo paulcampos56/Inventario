@@ -91,4 +91,4 @@ class moduloEquipo {
 }
 let objetoEquipo = new moduloEquipo('123453', 3, 'Revolvedora', 'Roja', 'Tupper', 'RSS', 'TodoTerreno', 123, 2);
 objetoEquipo._vUtil = 35
-objetoEquipo.imprimir();
+objetoEquipo.imprimir()
